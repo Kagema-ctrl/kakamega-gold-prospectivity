@@ -22,4 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-/MAP_ASSETS
+
+MAP_ASSETS/
